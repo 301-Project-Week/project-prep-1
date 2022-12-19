@@ -74,23 +74,55 @@ Hotel Search: Searching for hotels worldwide. The problem or pain point this sol
 
 ## User Stories
 
+User Story # 1:
 
+Client can search for flights
 
+Search flights between two cities and see what flight best fits their budget.
 
+Select ability to have recurring flights
 
+Finds and displays result
 
+User Story # 2:
 
+Using auth0 
 
+Ensure all users create a username and password for site.
 
+Enter a username and password for access.
 
+Allows access and able to login.
 
+User Story # 3:
 
+Multi-City Searches.
 
+Perform multi-city searches for longer itineraries.
 
+At least three search blocks for route.
 
+Route with multiple end points.
 
+User Story # 4:
 
+Search for cheapest flights.
 
+Access one-way combinable fares to offer the cheapest options possible.
+
+Properly search and finds cheapest results.
+
+Displays cheapest flights.
+
+User Story # 5:
+
+Real-time information.
+
+Provides a list of flight offers with prices, fare details, airline names, baggage allowances and departure terminals.
+
+Results to search are in real-time.
+
+Properly display results.
 
 ## Software Requirements  
 
@@ -127,7 +159,7 @@ It is only to lookup flights  for specific targeted user type.  To increase enga
 
 The MVP functionality be to search for flights and be able to login with AUTH0.
 
-Some stretch goals are to have the ability to look for every filter the API provides, a way to search multi city flights, separate domestic and international flights.
+Some stretch goals are to have the ability to look for every filter the API provides, a way to search multi city flights, filter prices from highest to lowest, and separate domestic and international flights.
 
 #### Stretch
 
