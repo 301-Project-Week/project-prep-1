@@ -72,4 +72,60 @@ Hotel Search: Searching for hotels worldwide. The problem or pain point this sol
 
 # Project Prep 4
 
+## User Stories
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Software Requirements
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Domain Modeling
+
+
+
+
+
+
+
+
+
+
+## Using a Database? Make an Database Schema Diagram
