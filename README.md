@@ -92,7 +92,16 @@ Hotel Search: Searching for hotels worldwide. The problem or pain point this sol
 
 
 
-## Software Requirements
+## Software Requirements  
+
+### Vision
+
+This product will act as a platform to connect travelers to their potential destinations and get the best possible deals where they have the opportunity to login with their email.
+
+The problem or pain point this solves is showing over 500 airlines so the client can find the cheapest flights for a given itinerary cities. Providing an easy one stop site to find the best flight deals.
+
+It is only to lookup flights  for specific targeted user type.  To increase engagement with flights product and get best possible deals.
+
 
 ### Scope (IN/OUT)
 
@@ -114,7 +123,7 @@ Hotel Search: Searching for hotels worldwide. The problem or pain point this sol
 
 - My website will only be in english and not support other languages.
 
-### Vision 
+
 
 
 
