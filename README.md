@@ -187,11 +187,12 @@ Security - For the Travel Explorer app we will be implementing auth0 so the clie
 
 Usability - The app will have one page to allow for the user to find and search easily. All search and filter labels will be properly named for user usability. 
 
-## Domain Modeling
+## Domain Modeling & WireFrame
 
 <img width="299" alt="Screenshot 2022-12-19 at 3 24 58 PM" src="https://user-images.githubusercontent.com/115438182/208547613-423b04a7-1485-4451-abcc-0e691e76524f.png">
 
 
+<img width="410" alt="Screenshot 2022-12-19 at 3 46 36 PM" src="https://user-images.githubusercontent.com/115438182/208549637-4ecdff58-1b0d-4c5e-bccf-d5eabdbd6072.png">
 
 ## Using a Database? Make an Database Schema Diagram
 
