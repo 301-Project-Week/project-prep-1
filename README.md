@@ -1,4 +1,4 @@
-# project-prep-1
+# Project Prep 1
 
 ## Cooperation Plan
 
@@ -62,7 +62,7 @@ The Git flow will be main and put everything on the staging branch with a new na
 
 Have all group members review the PRs. Won't merge our own code. At the end of the day we will merge. Commnicate in remo when it is time to merge.
 
-# project prep 4
+# Project Prep 2
 
 # Ideas
 
