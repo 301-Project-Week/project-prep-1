@@ -189,8 +189,9 @@ Usability - The app will have one page to allow for the user to find and search 
 
 ## Domain Modeling
 
-
+<img width="299" alt="Screenshot 2022-12-19 at 3 24 58 PM" src="https://user-images.githubusercontent.com/115438182/208547613-423b04a7-1485-4451-abcc-0e691e76524f.png">
 
 
 
 ## Using a Database? Make an Database Schema Diagram
+
