@@ -70,6 +70,6 @@ Traveling: Searching for flights for cities/countries. The problem or pain point
 
 Hotel Search: Searching for hotels worldwide. The problem or pain point this solves is that the client is able to find the best deals at over 150,000 hotels worldwide. This will also provide a list of the cheapest hotels in a given location. Once the client selects the hotel that best suits them, they will also to search available rooms and the prices for those rooms. MVP: Search for a hotel and login.
 
-# project prep 4
+# Project Prep 4
 
 
