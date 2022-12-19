@@ -8,7 +8,7 @@ Sharmarke: Backend code Robert: Public speaking, organization workflow Ryan: CSS
 
 We can best utilize these strengths in the execution of your project by creating a webpage and pairing tasks within out group for it to be completed and present it.
 
-[rofessional competencies do you each want to develop greater strength:
+Professional competencies do you each want to develop greater strength:
 
 Sharmarke: Agile to gain more passion Robert: Quality  Ryan: Craft
 
@@ -44,3 +44,20 @@ We will ensure that we are creating a safe environment where everyone feels comf
 
 ## Work Plan
 
+Communicate in Remo on what task we split into doing and have a discussion where we are, when we are stuck, and when we are complete.
+
+Github will be used is the project management tool.
+
+## Presentation Deck
+
+https://docs.google.com/presentation/d/1NeXKKEpjK2DDme8EwlZBsJndUqIgGYzWrY6FAYtNTf0/edit#slide=id.g2accd1c413_3_31
+
+## Git Process
+
+HTML, CSS, JS, and REACT will the be components on Github.
+
+We are all collaborators so we will have copies of the repos.
+
+The Git flow will be main and put everything on the staging branch with a new name for both the front and back end and then each day have one branch per person merge our work by person.
+
+Have all group members review the PRs. Won't merge our own code. At the end of the day we will merge. Commnicate in remo when it is time to merge.
