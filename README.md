@@ -94,7 +94,27 @@ Hotel Search: Searching for hotels worldwide. The problem or pain point this sol
 
 ## Software Requirements
 
+### Scope (IN/OUT)
 
+#### IN:
+
+- The web app will provide real-time flight information.
+
+- The web app will provide a list of flight offers with prices, fare details, airline names, baggage allowances and departure terminals.
+
+- The web app will provide the ability to search flights between two cities. 
+
+- The web app can access one-way combinable fares to offer the cheapest options possible.
+
+#### OUT:
+
+- My website will never turn into an IOS or Android app.
+
+- My website will never search for trips to outer space.
+
+- My website will only be in english and not support other languages.
+
+### Vision 
 
 
 
