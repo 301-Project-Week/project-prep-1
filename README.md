@@ -64,7 +64,7 @@ Have all group members review the PRs. Won't merge our own code. At the end of t
 
 # Project Prep 2
 
-# Ideas
+## Ideas
 
 Traveling: Searching for flights for cities/countries. The problem or pain point this solves is showing over 500 airlines so the client can find the cheapest flights for a given itinerary cities. You can also do multi-city searches. MVP: Searching for flights and it is displayed, also being able to login.
 
