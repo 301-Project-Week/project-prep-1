@@ -196,3 +196,5 @@ Usability - The app will have one page to allow for the user to find and search 
 
 ## Using a Database? Make an Database Schema Diagram
 
+<img width="981" alt="Screenshot 2022-12-19 at 3 47 52 PM" src="https://user-images.githubusercontent.com/115438182/208549725-c40f7bd0-7946-4a8a-89fb-9fccb9038261.png">
+
