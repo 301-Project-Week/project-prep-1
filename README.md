@@ -61,3 +61,15 @@ We are all collaborators so we will have copies of the repos.
 The Git flow will be main and put everything on the staging branch with a new name for both the front and back end and then each day have one branch per person merge our work by person.
 
 Have all group members review the PRs. Won't merge our own code. At the end of the day we will merge. Commnicate in remo when it is time to merge.
+
+# project prep 4
+
+# Ideas
+
+Traveling: Searching for flights for cities/countries. The problem or pain point this solves is showing over 500 airlines so the client can find the cheapest flights for a given itinerary cities. You can also do multi-city searches. MVP: Searching for flights and it is displayed, also being able to login.
+
+Hotel Search: Searching for hotels worldwide. The problem or pain point this solves is that the client is able to find the best deals at over 150,000 hotels worldwide. This will also provide a list of the cheapest hotels in a given location. Once the client selects the hotel that best suits them, they will also to search available rooms and the prices for those rooms. MVP: Search for a hotel and login.
+
+# project prep 4
+
+
