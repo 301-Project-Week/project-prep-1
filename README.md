@@ -123,14 +123,37 @@ It is only to lookup flights  for specific targeted user type.  To increase enga
 
 - My website will only be in english and not support other languages.
 
+### Minimum Viable Product
+
+The MVP functionality be to search for flights and be able to login with AUTH0.
+
+Some stretch goals are to have the ability to look for every filter the API provides, a way to search multi city flights, separate domestic and international flights.
+
+#### Stretch
+
+Multi city flight search is a stretch goals that you going to aim for. 
+
+### Functional Requirements
+ 
+- A user can search flights on over 500 airlines around the world.
+ 
+- A user can sign in with an email and password. 
+ 
+- A user can add a flight of their choice.
+ 
+- A user can be able to delete a flight if they change their mind.
+
+### Data Flow
+
+User would like to search by destination location on the search bar, travel dates. User will search results with the fares.
+Then the user will go ahead and see the details of the ones they choose to go with.
 
 
+### Non-Functional Requirements
 
+Security - For the Travel Explorer app we will be implementing auth0 so the client is able to sign in with their own account.
 
-
-
-
-
+Usability - The app will have one page to allow for the user to find and search easily. All search and filter labels will be properly named for user usability. 
 
 
 
