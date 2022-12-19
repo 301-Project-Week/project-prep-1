@@ -187,26 +187,7 @@ Security - For the Travel Explorer app we will be implementing auth0 so the clie
 
 Usability - The app will have one page to allow for the user to find and search easily. All search and filter labels will be properly named for user usability. 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Domain Modeling
-
-
-
-
-
 
 
 
