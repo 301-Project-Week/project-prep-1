@@ -177,9 +177,13 @@ Multi city flight search is a stretch goals that you going to aim for.
 
 ### Data Flow
 
-User would like to search by destination location on the search bar, travel dates. User will search results with the fares.
-Then the user will go ahead and see the details of the ones they choose to go with.
+- User Logs in
 
+- User would like to search by destination location on the search bar as well as travel dates
+
+- User will search results with the fares.
+
+- Then the user will go ahead and see the details of the ones they choose to go with.
 
 ### Non-Functional Requirements
 
