@@ -50,7 +50,7 @@ Github will be used is the project management tool.
 
 ## Presentation Deck
 
-https://docs.google.com/presentation/d/1NeXKKEpjK2DDme8EwlZBsJndUqIgGYzWrY6FAYtNTf0/edit#slide=id.g2accd1c413_3_31
+https://docs.google.com/presentation/d/1cUAs7tFVF9eAhd4ZBB31hyVRQQoRWK1E66eVrVlCAQg/edit#slide=id.g2accd1c413_3_31
 
 ## Git Process
 
